@@ -1,7 +1,3 @@
-## Hi there 👋
-
-<!--
-**SPYSON07/SPYSON07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge"/>
 
@@ -37,6 +33,10 @@ I am Mark Spyson, a cybersecurity expert based in Bangladesh. With extensive exp
 </div>
 
  <hr/>
+
+<!--
+**SPYSON07/SPYSON07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
  
 <h2 align="center">Languages-Frameworks</h2>
 <br/>
